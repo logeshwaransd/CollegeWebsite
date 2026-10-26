@@ -1,0 +1,5 @@
+.DS_Store
+# Optional: ignore local VS Code workspace settings
+.vscode/
+
+ 
